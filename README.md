@@ -30,9 +30,4 @@ DOTween: DOTween (Demigiant) - Free Asset Store.
 Tool: Audacity, Photoshop, Unity(version 2021.3.3f1)...
 Language: C#
 
-Script & Logic: Tự viết, AI. Kiến trúc tổng thể xây dựng từ kinh nghiệm qua 1 vài dự án cá nhân.
-
-## ▶ Hướng dẫn chạy dự án
-1. **Clone hoặc tải** dự án về:
-   ```bash
-   git clone <link-private-repo>
+Script & Logic: Tự viết, AI. Kiến trúc tổng thể xây dựng từ kinh nghiệm qua 1 vài dự án cá nhân
