@@ -9,7 +9,7 @@ Dự án này là một game rhythm dạng Magic Tiles 3, nơi người chơi nh
 - Hệ thống lưu dữ liệu (high score, nhạc đã chọn).
 - Quản lý danh sách nhạc để người chơi lựa chọn.
 - Quản lý pool tile để tối ưu hiệu năng.
-
+---
 ⚙ Quyết định thiết kế:
 - Beat Map JSON: Dễ dàng tạo mới và chỉnh sửa, tách biệt logic game với dữ liệu nhạc.
 - Object Pooling: Giảm load CPU khi spawn tile.
